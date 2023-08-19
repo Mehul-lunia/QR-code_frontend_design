@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: 'https://github.com/Mehul-lunia/Mehul-lunia.github.io'
-- Live Site URL: 'mehul-lunia.github.io'
+- Live Site URL: 'https://mehul-lunia.github.io'
 
 ## My process
 
